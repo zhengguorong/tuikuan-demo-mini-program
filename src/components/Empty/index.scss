@@ -1,0 +1,14 @@
+.empty.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .icon {
+      width: 240px;
+      height: 240px;
+    }
+    .desc {
+      line-height: 40px;
+      color: #b4b7d0;
+      font-size: 28px;
+    }
+  }
